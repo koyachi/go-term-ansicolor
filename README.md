@@ -2,7 +2,7 @@
 
 Go library that colors strings using ANSI escape sequences.
 
-(Go poring from https://github.com/flori/term-ansicolor)
+(Go porting from https://github.com/flori/term-ansicolor)
 
 ## Installation
 
