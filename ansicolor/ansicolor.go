@@ -1,9 +1,11 @@
+// Package colors strings using ANSI escape sequences.
 package ansicolor
 
 import (
 	"strconv"
 )
 
+// Color functions
 var (
 	Clear            = newFunc(0)
 	Reset            = Clear
